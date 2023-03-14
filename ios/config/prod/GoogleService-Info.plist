@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1092863448568-cu3gk7cn73qr406ldru36tdq1812a7jv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1092863448568-cu3gk7cn73qr406ldru36tdq1812a7jv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1092863448568-m8tc5oa88udsi5cd36e89am9avrfn2ji.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNVyfCBk761m_Zdd9i3osexpI2DzaSBp4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1092863448568</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.qerja.mobile</string>
+	<key>PROJECT_ID</key>
+	<string>qerja-io</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qerja-io.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1092863448568:ios:20190ef85e51f8f1c2b20d</string>
+</dict>
+</plist>
